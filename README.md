@@ -8,3 +8,11 @@ The example below "finds" an HTML element (with id="demo"), and changes the elem
 
 # Example:
 ```document.getElementById("demo").innerHTML = "Hello JavaScript";```
+
+JavaScript Can Change HTML Attribute Values
+In this example JavaScript changes the value of the src (source) attribute of an <img> tag
+
+# JavaScript Can Change HTML Styles (CSS)
+Changing the style of an HTML element, is a variant of changing an HTML attribute:
+
+```document.getElementById("demo").style.fontSize = "35px";```
