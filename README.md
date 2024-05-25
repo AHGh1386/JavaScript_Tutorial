@@ -16,3 +16,6 @@ In this example JavaScript changes the value of the src (source) attribute of an
 Changing the style of an HTML element, is a variant of changing an HTML attribute:
 
 ```document.getElementById("demo").style.fontSize = "35px";```
+
+
+I will write the continue in the next days.
